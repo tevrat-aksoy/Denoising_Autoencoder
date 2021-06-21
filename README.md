@@ -6,10 +6,13 @@ Gauss ve tuz-biber gürültüsü içeren görüntülerin iyileştirilmesi için 
 
 CelebA ve Google Landmarks Dataset v2 veri setleri ile eğitim yapılmıştır.
 CelebA veri seti aşağıdaki link verilen adreslerden indirilebilir.
+
     https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
 Google Landmarks Dataset v2 veri seti aşağıda verilen sayfada anlatılmıştır. Burada verilen indirme linki ile indirilebilir.
+
    https://github.com/cvdfoundation/google-landmark
+   
 indirme link:  https://s3.amazonaws.com/google-landmark/train/images_000.tar
 
 ## Model Parametreleri
