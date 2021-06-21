@@ -15,8 +15,11 @@ indirme link:  https://s3.amazonaws.com/google-landmark/train/images_000.tar
 ## Model Parametreleri
 
 batch_size : 10 seçilmiştir. Veriler farklı batch'lere ayrılarak GPU ile verilerin daha hızlı eğitilmesini sağlar.
+
 input_shape : 256x256 seçilmiştir. Görüntülerin model eğitilmeden boyutları aynı değere çekilir.
+
 GaussNoise: Görüntülere gauss gürültüsü eklenmesi için kullanılan fonksiyon
+
 SaltandPaperNoise: Görüntülere tuz-biber gürültüsü eklenmesi için kullanılan fonksiyon
 
 ## Model Kullanımı
